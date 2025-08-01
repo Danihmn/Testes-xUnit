@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Dev.NET\\Estudos\\Testes_xUnit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C21FC82C-D1E0-4D58-80F6-70992FADE129}|Testes_xUnit.csproj|c:\\users\\danie\\dev.net\\estudos\\testes_xunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21FC82C-D1E0-4D58-80F6-70992FADE129}|Testes_xUnit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21FC82C-D1E0-4D58-80F6-70992FADE129}|Testes_xUnit.csproj|c:\\users\\danie\\dev.net\\estudos\\testes_xunit\\operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21FC82C-D1E0-4D58-80F6-70992FADE129}|Testes_xUnit.csproj|solutionrelative:operacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F231A896-7165-4702-90C6-E9C109B5B375}|..\\Testes\\Testes.csproj|c:\\users\\danie\\dev.net\\estudos\\testes\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\Testes\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Testes\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\Testes\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Testes\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:24:54.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operacoes.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\Testes_xUnit\\Operacoes.cs",
+              "RelativeDocumentMoniker": "Operacoes.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\Testes_xUnit\\Operacoes.cs",
+              "RelativeToolTip": "Operacoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:22:05.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Dev.NET\\Estudos\\Testes_xUnit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Dev.NET\\Estudos\\Testes_xUnit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:21:36.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
