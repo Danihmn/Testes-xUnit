@@ -1,3 +1,4 @@
-# Ignorar pastas de compilação
+# Ignorar pastas de arquivos temporários
 bin/
 obj/
+vs/
